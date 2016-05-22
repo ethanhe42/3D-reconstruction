@@ -3,7 +3,7 @@
 ### How to run  
 1. You can directly go to result folder to see all results  
 2. To make it easier for you to view all results , I selected two images for each imageset. You can reproduce all 3D models using main.m. All 8 pclouds will show up together after program finished. ply will be saved to result folder.  
-`main`    
+`main;`    
 3. You can specify two images(**intrinsic.new must be in the same folder**):  
 ` SfM2('imgFolder/img1.JPG','imgFolder/img2.JPG');`  
 will not show model after finished, only save .ply to result.  
