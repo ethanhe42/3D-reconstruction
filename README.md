@@ -1,11 +1,11 @@
 # 2 view structure from motion, CS281B
 ## Yihui He, yihui@umail.ucsb.edu
-
 ### How to run  
 1. You can directly go to result folder to see all results  
-2. You can reproduce all 3D models by main.m. All 8 point clouds will show up together after program finished. ply will be saved to result folder.  
-3. You can specify two images:  
-` untitled('imgFolder/img1.JPG','imgFolder/img2.JPG',false);`  
+2. To make it easier for you to view all results , I selected two images for each imageset. You can reproduce all 3D models using main.m. All 8 pclouds will show up together after program finished. ply will be saved to result folder.  
+`main`    
+3. You can specify two images(**intrinsic.new must be in the same folder**):  
+` untitled('imgFolder/img1.JPG','imgFolder/img2.JPG');`  
 will not show model after finished, only save .ply to result.  
 ` untitled('imgFolder/img1.JPG','imgFolder/img2.JPG',true);`  
 will show model after finished, and save .ply to result.  
