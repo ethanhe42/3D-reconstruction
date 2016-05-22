@@ -1,5 +1,5 @@
-# 2 view structure from motion
-## Yihui He cs281b yihui@umail.ucsb.edu
+# 2 view structure from motion, CS281B
+## Yihui He, yihui@umail.ucsb.edu
 
 ### How to run  
 1. You can directly go to result folder to see all results  
