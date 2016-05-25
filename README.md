@@ -1,5 +1,7 @@
 # 2 view structure from motion, CS281B
 ## Yihui He, yihui@umail.ucsb.edu
+![h](result/Screenshot%20from%202016-05-20%2022-02-50.png)
+![h](result/selfff.png)
 ### How to run  
 1. You can directly go to result folder to see all results  
 2. To make it easier for you to view all results , I selected two images for each imageset. You can reproduce all 3D models using main.m. All 8 pclouds will show up together after program finished. ply will be saved to result folder.  
