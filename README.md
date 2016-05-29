@@ -12,10 +12,9 @@ will not show model after finished, only save .ply to result.
 ` SfM2('imgFolder/img1.JPG','imgFolder/img2.JPG',true);`  
 will show model after finished, and save .ply to result.  
 
-### bonus  
-I implemented all bonus features described in assignment.  
-- I implemented dense matching.  
-- I implemented MSAC instead of RANSAC.  
+### Features  
+- dense matching.  
+- MSAC instead of RANSAC.  
 
 ### main steps of my code
 1. get camera intrinsic matrix.  
