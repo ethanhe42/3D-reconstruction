@@ -11,6 +11,8 @@ will not show model after finished, only save .ply to result.
 ` SfM2('imgFolder/img1.JPG','imgFolder/img2.JPG',true);`  
 will show model after finished, and save .ply to result.  
 
+###### This system has been tested under Matlab 2016a and Ubuntu 16.04. please make sure your matlab have vision toolkit  
+
 ### Features  
 - dense matching.  
 - MSAC instead of RANSAC.  
